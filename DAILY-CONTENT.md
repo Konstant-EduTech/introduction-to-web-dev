@@ -346,7 +346,7 @@ By the end of Day 8, students will understand the CSS box model and how to use m
 
 ---
 
-### **Day 9: Styling Layouts with Divs**
+### Day 9: Styling Layouts with Divs
 
 ---
 
@@ -397,7 +397,7 @@ By the end of Day 9, students will be able to structure a webpage using `<div>` 
 
 ---
 
-### **Day 10: Styling the Portfolio Page**
+### Day 10: Styling the Portfolio Page
 
 ---
 

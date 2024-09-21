@@ -1,4 +1,5 @@
-![Course Ad Banner](https://github.com/user-attachments/assets/11155906-e57a-4ca7-9146-c9c52e913afe | width=250)
+![Course Ad Banner](https://github.com/user-attachments/assets/11155906-e57a-4ca7-9146-c9c52e913afe)
+
 ### **Course Title: Introduction to Web Development for Absolute Beginners**
 Join [here](https://chat.whatsapp.com/KhUEN7hvxYGJgQbDovt47l) or copy and paste this link in your browser:
 [https://chat.whatsapp.com/KhUEN7hvxYGJgQbDovt47l](https://chat.whatsapp.com/KhUEN7hvxYGJgQbDovt47l)

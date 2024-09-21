@@ -1,4 +1,4 @@
-# 20-Day Web Development Bootcamp Outline
+# 4-week Web Development Bootcamp Outline
 
 ## Day 1: What is a Website & HTML Basics
 
@@ -213,6 +213,8 @@ By the end of Day 5, students will be able to create a small, well-structured pe
 ### Homework/Practice:
 - Ask students to finalize their portfolio with content about themselves, their projects, and their contact information. Encourage them to experiment with headings, paragraphs, lists, and images.
 
+### Weekend Break With Assignment
+
 ## Day 6: Introduction to CSS
 
 ### Objective:
@@ -350,10 +352,10 @@ By the end of Day 8, students will understand the CSS box model and how to use m
 
 ---
 
-#### **Objective**:
+#### Objective:
 By the end of Day 9, students will be able to structure a webpage using `<div>` elements and CSS for basic layout, including creating columns and sections.
 
-#### **Lesson Content**:
+#### Lesson Content:
 
 1. **Structuring Webpages with Divs**:
     - **Concept**: Use `<div>` elements as containers to organize content. Divs can be styled using CSS to create different sections on the webpage.
@@ -401,10 +403,10 @@ By the end of Day 9, students will be able to structure a webpage using `<div>` 
 
 ---
 
-#### **Objective**:
+#### Objective:
 By the end of Day 10, students will be able to apply CSS to fully style their portfolio, including the header, footer, and main content areas.
 
-#### **Lesson Content**:
+#### Lesson Content:
 
 1. **Creating a Consistent Style**:
     - **Concept**: Use CSS to ensure consistent design across the entire webpage.
@@ -450,14 +452,16 @@ By the end of Day 10, students will be able to apply CSS to fully style their po
 
 ---
 
-### **Day 11: Introduction to Responsive Design**
+### Weekend Break With Assignment
+
+### Day 11: Introduction to Responsive Design
 
 ---
 
-#### **Objective**:
+#### Objective:
 By the end of Day 11, students will understand the concept of responsive design and why it’s important for making websites adaptable to different screen sizes.
 
-#### **Lesson Content**:
+#### Lesson Content:
 
 1. **What is Responsive Design?**:
     - **Concept**: Responsive design ensures that a website looks good on different screen sizes (desktop, tablet, mobile).
@@ -479,14 +483,14 @@ By the end of Day 11, students will understand the concept of responsive design 
 
 ---
 
-### **Day 12: Media Queries – Making Websites Mobile-Friendly**
+### Day 12: Media Queries – Making Websites Mobile-Friendly
 
 ---
 
-#### **Objective**:
+#### Objective:
 By the end of Day 12, students will know how to use media queries to create mobile-friendly layouts for different screen sizes.
 
-#### **Lesson Content**:
+#### Lesson Content:
 
 1. **Introduction to Media Queries**:
     - **Concept**: Media queries allow different styles to be applied depending on the screen size.
@@ -517,14 +521,14 @@ By the end of Day 12, students will know how to use media queries to create mobi
 
 ---
 
-### **Day 13: Flexbox for Responsive Layouts**
+### Day 13: Flexbox for Responsive Layouts
 
 ---
 
-#### **Objective**:
+#### Objective:
 By the end of Day 13, students will know how to use Flexbox to create responsive layouts that adjust smoothly across different screen sizes.
 
-#### **Lesson Content**:
+#### Lesson Content:
 
 1. **Introduction to Flexbox**:
     - **Concept**: Flexbox is a CSS layout model that allows elements to align and distribute space within a container, even when screen sizes change.
@@ -558,14 +562,14 @@ By the end of Day 13, students will know how to use Flexbox to create responsive
 
 ---
 
-### **Day 14: Responsive Navigation**
+### Day 14: Responsive Navigation
 
 ---
 
-#### **Objective**:
+#### Objective:
 By the end of Day 14, students will be able to create a responsive navigation menu that works on both desktop and mobile devices.
 
-#### **Lesson Content**:
+#### Lesson Content:
 
 1. **Building a Simple Navigation Bar**:
     - **Concept**: Use `<nav>` to create a navigation menu and style it with CSS.
@@ -607,14 +611,14 @@ By the end of Day 14, students will be able to create a responsive navigation me
 
 ---
 
-### **Day 15: Review and Complete the Responsive Portfolio**
+### Day 15: Review and Complete the Responsive Portfolio
 
 ---
 
-#### **Objective**:
+#### Objective:
 By the end of Day 15, students will finalize their portfolio, ensuring it is fully responsive and polished across all devices.
 
-#### **Lesson Content**:
+#### Lesson Content:
 
 1. **Review of Responsive Design**:
     - Recap all the responsive design techniques covered (media queries, Flexbox, responsive navigation).
@@ -633,14 +637,16 @@ By the end of Day 15, students will finalize their portfolio, ensuring it is ful
 
 ---
 
-### **Day 16: Introduction to JavaScript**
+### Weekend Break With Assignment
+
+### Day 16: Introduction to JavaScript
 
 ---
 
-#### **Objective**:
+#### Objective:
 By the end of Day 16, students will know the basics of JavaScript, including how to write and run simple scripts.
 
-#### **Lesson Content**:
+#### Lesson Content:
 
 1. **What is JavaScript?**:
     - **Concept**: JavaScript is a programming language that allows developers to make web pages interactive.
@@ -670,14 +676,14 @@ By the end of Day 16, students will know the basics of JavaScript, including how
 
 ---
 
-### **Day 17: Using JavaScript to Change Content**
+### Day 17: Using JavaScript to Change Content
 
 ---
 
-#### **Objective**:
+#### Objective:
 By the end of Day 17, students will know how to use JavaScript to manipulate HTML elements and change the content on their webpage dynamically.
 
-#### **Lesson Content**:
+#### Lesson Content:
 
 1. **Selecting Elements**:
     - **Concept**: Use JavaScript to select and manipulate HTML elements.
@@ -705,14 +711,14 @@ By the end of Day 17, students will know how to use JavaScript to manipulate HTM
 
 ---
 
-### **Day 18: JavaScript Event Handling**
+### Day 18: JavaScript Event Handling
 
 ---
 
-#### **Objective**:
+#### Objective:
 By the end of Day 18, students will know how to handle user interactions with JavaScript, such as clicks and form submissions.
 
-#### **Lesson Content**:
+#### Lesson Content:
 
 1. **What are Events?**:
     - **Concept**: Events are actions that happen on a webpage (clicks, mouse movements, key presses).
@@ -736,14 +742,14 @@ By the end of Day 18, students will know how to handle user interactions with Ja
 
 ---
 
-### **Day 19: Form Validation with JavaScript**
+### Day 19: Form Validation with JavaScript
 
 ---
 
-#### **Objective**:
+#### Objective:
 By the end of Day 19, students will know how to create and validate forms using JavaScript.
 
-#### **Lesson Content**:
+#### Lesson Content:
 
 1. **Building a Simple Form**:
     - **Concept**: Create a basic form using HTML, including input fields for name and email.
@@ -782,14 +788,14 @@ By the end of Day 19, students will know how to create and validate forms using 
 
 ---
 
-### **Day 20: Final Project – Making the Website Interactive**
+### Day 20: Final Project – Making the Website Interactive
 
 ---
 
-#### **Objective**:
+#### Objective:
 By the end of Day 20, students will complete their portfolio by adding interactive features like buttons, forms, and animations.
 
-#### **Lesson Content**:
+#### Lesson Content:
 
 1. **Review of JavaScript Concepts**:
     - Recap all the JavaScript techniques covered (event handling, form validation, DOM manipulation).

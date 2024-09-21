@@ -4,14 +4,14 @@
 
 ---
 
-### *Course Title: Introduction to Web Development for Absolute Beginners*
+# *Course Title: Introduction to Web Development for Absolute Beginners*
 
-#### *Section 1: Getting Started with Websites*
+## *Section 1: Getting Started with Websites*
 
 - **Milestone Project:** Personal Portfolio Website - Part 1 (Building the Basic Web Page Structure)
     - **Description:** In this section, students will learn the basic structure of a web page and how to create their personal portfolio website. They will understand the building blocks of the web: HTML and CSS.
 
-##### *Part 1.1: Understanding Web Pages*
+### *Part 1.1: Understanding Web Pages*
 
 - **Module 1.1.1: What is a Website?**
     - **Submodules:**
@@ -27,7 +27,7 @@
     - **Small Project:** Create Your First Web Page (Task 1: Create a Heading, Task 2: Add Some Text)
         - **Description:** Build a basic webpage with headings and text.
 
-##### *Part 1.2: Making Your Web Page Look Good with CSS*
+### *Part 1.2: Making Your Web Page Look Good with CSS*
 
 - **Module 1.2.1: What is CSS?**
     - **Submodules:**
@@ -43,7 +43,7 @@
     - **Small Project:** Style Your Web Page (Task 1: Change Text Colors, Task 2: Add Spacing and Borders)
         - **Description:** Style your webpage using CSS to change the appearance of the text and layout.
 
-##### *Part 1.3: Structuring Your Web Page with HTML*
+### *Part 1.3: Structuring Your Web Page with HTML*
 
 - **Module 1.3.1: Adding More Content with HTML**
     - **Submodules:**
@@ -56,7 +56,7 @@
     - **Small Project:** Add More Features to Your Web Page (Task 1: Create a List, Task 2: Add an Image)
         - **Description:** Expand the basic webpage by adding a list and embedding an image.
 
-##### *Part 1.4: Organizing the Page with Divs and Spans*
+### *Part 1.4: Organizing the Page with Divs and Spans*
 
 - **Module 1.4.1: Grouping Elements**
     - **Submodules:**
@@ -68,12 +68,12 @@
 
 ---
 
-#### *Section 2: Bringing Style and Structure Together*
+## *Section 2: Bringing Style and Structure Together*
 
 - **Milestone Project:** Personal Portfolio Website - Part 2 (Designing a Homepage)
     - **Description:** Create a homepage for your personal portfolio by combining HTML structure and CSS styling.
 
-##### *Part 2.1: Creating a Homepage Layout*
+### *Part 2.1: Creating a Homepage Layout*
 
 - **Module 2.1.1: Structuring the Page with Sections**
     - **Submodules:**
@@ -86,7 +86,7 @@
     - **Small Project:** Build a Homepage Layout (Task 1: Create Sections, Task 2: Add a Navigation Bar)
         - **Description:** Create a basic homepage layout with a header, footer, and navigation.
 
-##### *Part 2.2: Designing with CSS*
+### *Part 2.2: Designing with CSS*
 
 - **Module 2.2.1: Applying Colors and Fonts**
     - **Submodules:**
@@ -101,12 +101,12 @@
 
 ---
 
-#### *Section 3: Making Your Website Interactive*
+## *Section 3: Making Your Website Interactive*
 
 - **Milestone Project:** Personal Portfolio Website - Part 3 (Adding Simple Interactivity)
     - **Description:** Add interactivity to your personal portfolio website using JavaScript. You’ll make buttons, image sliders, and interactive elements.
 
-##### *Part 3.1: Introduction to JavaScript*
+### *Part 3.1: Introduction to JavaScript*
 
 - **Module 3.1.1: Understanding JavaScript Basics**
     - **Submodules:**
@@ -119,7 +119,7 @@
     - **Small Project:** Add Interaction to Your Website (Task 1: Create a Button, Task 2: Write JavaScript to Change Colors)
         - **Description:** Make the website interactive by adding a clickable button that changes the background color.
 
-##### *Part 3.2: Interacting with Web Page Elements*
+### *Part 3.2: Interacting with Web Page Elements*
 
 - **Module 3.2.1: Introduction to the DOM (Document Object Model)**
     - **Submodules:**
@@ -132,7 +132,7 @@
     - **Small Project:** Add Interactive Features (Task 1: Change Text with JS, Task 2: Handle Button Clicks)
         - **Description:** Add interactivity to your website by responding to user actions such as button clicks or changing text dynamically.
 
-##### *Part 3.3: Creating Basic Animations*
+### *Part 3.3: Creating Basic Animations*
 
 - **Module 3.3.1: Adding Simple Animations with JavaScript**
     - **Submodules:**
@@ -145,7 +145,7 @@
     - **Small Project:** Add Animations to Your Website (Task 1: Animate a Section, Task 2: Create Hover Effects)
         - **Description:** Add dynamic animations to your portfolio to make it more visually engaging.
 
-##### *Part 3.4: Enhancing User Interaction with Forms*
+### *Part 3.4: Enhancing User Interaction with Forms*
 
 - **Module 3.4.1: Creating Forms with HTML**
     - **Submodules:**
@@ -160,12 +160,12 @@
 
 ---
 
-#### *Section 4: Wrapping It All Up*
+## *Section 4: Wrapping It All Up*
 
 - **Milestone Project:** Personal Portfolio Website - Final Version (Putting Everything Together)
     - **Description:** In this section, students will complete their personal portfolio website by applying all the skills they’ve learned throughout the course. They will ensure that the website is fully functional, visually appealing, and interactive.
 
-##### *Part 4.1: Refining the Website’s Design*
+### *Part 4.1: Refining the Website’s Design*
 
 - **Module 4.1.1: Improving Layout and Responsiveness**
     - **Submodules:**
@@ -178,7 +178,7 @@
     - **Small Project:** Final Design Touches (Task 1: Add Media Queries, Task 2: Improve Font and Color Choices)
         - **Description:** Ensure that the portfolio is visually appealing across different devices and has a polished, professional look.
 
-##### *Part 4.2: Testing and Publishing*
+### *Part 4.2: Testing and Publishing*
 
 - **Module 4.2.1: Testing the Website**
     - **Submodules:**
@@ -193,7 +193,7 @@
 
 ---
 
-### *Final Course Recap*
+## *Final Course Recap*
 
 By the end of this course, learners will have created a fully functional, responsive, and interactive personal portfolio website. They will have learned the essential skills of web development, including:
 

@@ -1,5 +1,7 @@
-![Course Ad Banner](https://github.com/user-attachments/assets/11155906-e57a-4ca7-9146-c9c52e913afe)
+![Course Ad Banner](https://github.com/user-attachments/assets/11155906-e57a-4ca7-9146-c9c52e913afe | width=250)
 ### **Course Title: Introduction to Web Development for Absolute Beginners**
+Join [here](https://chat.whatsapp.com/KhUEN7hvxYGJgQbDovt47l) or copy and paste this link in your browser:
+[https://chat.whatsapp.com/KhUEN7hvxYGJgQbDovt47l](https://chat.whatsapp.com/KhUEN7hvxYGJgQbDovt47l)
 
 #### **Course Description**:
 This 4-week **Introduction to Web Development** course is designed for individuals with no prior coding experience who are eager to break into the world of web development. Throughout this highly interactive, project-based bootcamp, you will learn the fundamentals of creating fully functional, responsive, and interactive websites using HTML, CSS, and JavaScript. Each lesson builds on the last, ensuring that you grasp every essential concept at a manageable pace. By the end of the course, you’ll have created a personal portfolio website that showcases your new web development skills—an ideal foundation to take your learning further.

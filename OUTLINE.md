@@ -1,4 +1,4 @@
-# Introduction to Web Development
+# Introduction to Web Development (+ bonus module)
 
 #### By Konstant EduTech
 
@@ -201,3 +201,7 @@ By the end of this course, learners will have created a fully functional, respon
 - **CSS:** Styling and designing web pages, creating layouts, and making sites responsive.
 - **JavaScript:** Adding interactivity, handling user input, and manipulating web page elements.
 - **Website Publishing:** Testing and deploying websites to be accessible to the public.
+
+## Bonus Module: Deploying your site for free
+
+We'll show you how to deploy your website online for free for the whole world to see, and have a shareable url.
